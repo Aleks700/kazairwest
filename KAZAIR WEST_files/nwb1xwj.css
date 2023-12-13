@@ -1,0 +1,68 @@
+/*
+ * The Typekit service used to deliver this font or fonts for use on websites
+ * is provided by Adobe and is subject to these Terms of Use
+ * http://www.adobe.com/products/eulas/tou_typekit. For font license
+ * information, see the list below.
+ *
+ * lores-12:
+ *   - http://typekit.com/eulas/00000000000000007735bf74
+ *   - http://typekit.com/eulas/00000000000000007735bf82
+ * merriweather:
+ *   - http://typekit.com/eulas/00000000000000007735a0ea
+ *   - http://typekit.com/eulas/00000000000000007735a0ef
+ * pulpo:
+ *   - http://typekit.com/eulas/00000000000000007735b5d7
+ *   - http://typekit.com/eulas/00000000000000007735b5dd
+ *   - http://typekit.com/eulas/00000000000000007735b5ef
+ *
+ * © 2009-2023 Adobe Systems Incorporated. All Rights Reserved.
+ */
+/*{"last_published":"2023-12-04 09:34:46 UTC"}*/
+
+@import url("../p.typekit.net/p60b6.css?s=1&amp;k=nwb1xwj&amp;ht=tk&amp;f=15760.15761.28316.28317.42276.42278.42282&amp;a=111915882&amp;app=typekit&amp;e=css");
+
+@font-face {
+font-family:"merriweather";
+src:url("af/51b3f1/00000000000000007735a0ea/30/le196?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n4&amp;v=3") format("woff2"),url("af/51b3f1/00000000000000007735a0ea/30/de196?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n4&amp;v=3") format("woff"),url("af/51b3f1/00000000000000007735a0ea/30/ae196?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n4&amp;v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"merriweather";
+src:url("af/58214a/00000000000000007735a0ef/30/l3eab?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n3&amp;v=3") format("woff2"),url("af/58214a/00000000000000007735a0ef/30/d3eab?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n3&amp;v=3") format("woff"),url("af/58214a/00000000000000007735a0ef/30/a3eab?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n3&amp;v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:300;font-stretch:normal;
+}
+
+@font-face {
+font-family:"lores-12";
+src:url("af/67262f/00000000000000007735bf74/30/l652f?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n7&amp;v=3") format("woff2"),url("af/67262f/00000000000000007735bf74/30/d652f?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n7&amp;v=3") format("woff"),url("af/67262f/00000000000000007735bf74/30/a652f?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n7&amp;v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:700;font-stretch:normal;
+}
+
+@font-face {
+font-family:"lores-12";
+src:url("af/84d9ce/00000000000000007735bf82/30/le196?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n4&amp;v=3") format("woff2"),url("af/84d9ce/00000000000000007735bf82/30/de196?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n4&amp;v=3") format("woff"),url("af/84d9ce/00000000000000007735bf82/30/ae196?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n4&amp;v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"pulpo";
+src:url("af/a2bcff/00000000000000007735b5d7/30/l96e6?primer=bdc973ea9945bf2ee2550957b401916e56fc5fc4cec4e29110795767e60d6b9a&amp;fvd=n3&amp;v=3") format("woff2"),url("af/a2bcff/00000000000000007735b5d7/30/d96e6?primer=bdc973ea9945bf2ee2550957b401916e56fc5fc4cec4e29110795767e60d6b9a&amp;fvd=n3&amp;v=3") format("woff"),url("af/a2bcff/00000000000000007735b5d7/30/a96e6?primer=bdc973ea9945bf2ee2550957b401916e56fc5fc4cec4e29110795767e60d6b9a&amp;fvd=n3&amp;v=3") format("opentype");
+font-display:swap;font-style:normal;font-weight:300;font-stretch:normal;
+}
+
+@font-face {
+font-family:"pulpo";
+src:url("af/fa3159/00000000000000007735b5dd/30/ldc4c?primer=bdc973ea9945bf2ee2550957b401916e56fc5fc4cec4e29110795767e60d6b9a&amp;fvd=n4&amp;v=3") format("woff2"),url("af/fa3159/00000000000000007735b5dd/30/ddc4c?primer=bdc973ea9945bf2ee2550957b401916e56fc5fc4cec4e29110795767e60d6b9a&amp;fvd=n4&amp;v=3") format("woff"),url("af/fa3159/00000000000000007735b5dd/30/adc4c?primer=bdc973ea9945bf2ee2550957b401916e56fc5fc4cec4e29110795767e60d6b9a&amp;fvd=n4&amp;v=3") format("opentype");
+font-display:swap;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"pulpo";
+src:url("af/d2ed77/00000000000000007735b5ef/30/l25e8?primer=bdc973ea9945bf2ee2550957b401916e56fc5fc4cec4e29110795767e60d6b9a&amp;fvd=n7&amp;v=3") format("woff2"),url("af/d2ed77/00000000000000007735b5ef/30/d25e8?primer=bdc973ea9945bf2ee2550957b401916e56fc5fc4cec4e29110795767e60d6b9a&amp;fvd=n7&amp;v=3") format("woff"),url("af/d2ed77/00000000000000007735b5ef/30/a25e8?primer=bdc973ea9945bf2ee2550957b401916e56fc5fc4cec4e29110795767e60d6b9a&amp;fvd=n7&amp;v=3") format("opentype");
+font-display:swap;font-style:normal;font-weight:700;font-stretch:normal;
+}
+
+.tk-merriweather { font-family: "merriweather",serif; }
+.tk-lores-12 { font-family: "lores-12",sans-serif; }
+.tk-pulpo { font-family: "pulpo",serif; }
